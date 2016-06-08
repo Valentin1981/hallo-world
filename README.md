@@ -1,3 +1,3 @@
 # hallo-world
 new repository
-hello i'm a bghiner in programing
+hello i'm a beginer in programing
